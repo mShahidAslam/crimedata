@@ -1,0 +1,18 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1382125587.0493581:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%0eb5d70fba77ec9405a2b45146f2ba2bI"logical_path;
+FI"page-loader.gif;
+TI"pathname;
+FI",$root/app/assets/images/page-loader.gif;
+TI"content_type;
+FI"image/gif;
+FI"
+mtime;
+FI"2013-10-17T23:46:00+02:00;
+FI"length;
+FI"
+18311;
+FI"digest;
+F"%80d889d0ee53a7abd700e31ace199579I"_version;
+F"%df7525e917401704ef453cb56bf16697

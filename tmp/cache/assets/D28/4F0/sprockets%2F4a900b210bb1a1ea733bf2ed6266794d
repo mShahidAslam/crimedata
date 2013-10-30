@@ -1,0 +1,18 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1382125594.312305:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%a0735c6780b310402c65d1590c91240fI"logical_path;
+FI"fontawesome-webfont.woff;
+TI"pathname;
+FI"‚/Users/Shahid/.rvm/gems/ruby-1.9.3-p448@cityofchicago/gems/twitter-bootstrap-rails-2.2.8/app/assets/fonts/fontawesome-webfont.woff;
+TI"content_type;
+FI"application/octet-stream;
+FI"
+mtime;
+FI"2013-10-18T19:34:55+02:00;
+FI"length;
+FI"
+43572;
+FI"digest;
+F"%2420349e994d33ff6ac38a8219796a05I"_version;
+F"%df7525e917401704ef453cb56bf16697

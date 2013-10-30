@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1382125594.3584828:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%2a8de8b57063c5e447a94b0b1ab4c45bI"logical_path;
+FI"jquery.min.map;
+TI"pathname;
+FI"{/Users/Shahid/.rvm/gems/ruby-1.9.3-p448@cityofchicago/gems/jquery-rails-3.0.4/vendor/assets/javascripts/jquery.min.map;
+TI"content_type;
+FI"application/octet-stream;
+FI"
+mtime;
+FI"2013-10-16T15:14:27+02:00;
+FI"length;
+FI"140023;
+FI"digest;
+F"%65a15c9aac52989bb056d466abc85100I"_version;
+F"%df7525e917401704ef453cb56bf16697
